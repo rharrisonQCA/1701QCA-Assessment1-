@@ -48,12 +48,9 @@ This experiment could be the basis of a real world application such as a solar l
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
-
-(Insert a caption here)
+In this experiment, a servo is used to turn it's servo horns to a side when button A or B is clicked on the micro-bit. When button A is, the servo horns turns 90 to the left, while when button B is pressed the servo horns turns 90 to the right.  
 
 #### Reflection ####
+In this experiment, I learnt how a servo operates and how to connect it to the micro-bit through the breadboard. At the same time, I learnt how to create this connection for my replication project, thus I should be able to easily remake this experiment and implement into the project. Although, I also did learn how to connect a servo when said servo is not within the breadboard. As the servo has three wires, Pin0, 3V and GND, these had to be connected straight to the edge connector breakout board to be able to operate. 
 
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
+This experiment could be the basis of a real world application such as windshield wipers on cars. It could be the basis of this application because when a button is clicked within the car, the wipers move from 0 degrees to 180 degrees for a period of time. This is similar to the servo moving it's horns from 0 to 180 degrees at the click of a button. 
