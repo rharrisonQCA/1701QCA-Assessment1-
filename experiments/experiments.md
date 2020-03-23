@@ -14,6 +14,7 @@ This experiment could be the basis of a real world application such as the pedes
 
 ### Dimming an LED using a Potentiometer ###
 ![Image](experiment3.JPG)![Image](experiment3CODE.JPG)
+
 The experiment determines whether or not a LED needs to have power based on if a user has pushed the button connected to the micro-bit. From there, the user can adjust the brightness of this LED by turning the potentiometer to be bright or dimmer. At the end, the button can also turn the power to the LED off. 
 
 #### Reflection ####
@@ -23,6 +24,7 @@ This experiment could be the basis of a real world application such as a dimmer 
 
 ### Making a Pedestrian Crossing ###
 ![Image](experiment11.png)![Image](experiment11CODE.JPG)
+
 The above experiment was made by following the extra tutorial that created the mechanics of a traffic intersection and pedestrian crossing. The user is required to press button A on the mirco-bit to initalate the traffic to stop and let the pedestrian cross. When the pedestrian light is green, the buzzer produces sound to let the pedstrian to go. When the timer for the pedestrian crossing finishes, the traffic lights go through red, red and orange, to green where traffic resumes until button A is pressed again.
 
 #### Reflection ####
@@ -46,6 +48,7 @@ This experiment could be the basis of a real world application such as a solar l
 
 #### Photo of completed project ####
 ![Image](missingimage.png)
+
 In this experiment, a servo is used to turn it's servo horns to a side when button A or B is clicked on the micro-bit. When button A is, the servo horns turns 90 to the left, while when button B is pressed the servo horns turns 90 to the right.  
 
 #### Reflection ####
