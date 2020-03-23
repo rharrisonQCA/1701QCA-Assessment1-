@@ -45,8 +45,6 @@ This experiment could be the basis of a real world application such as a solar l
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
 ![Image](missingimage.png)
 In this experiment, a servo is used to turn it's servo horns to a side when button A or B is clicked on the micro-bit. When button A is, the servo horns turns 90 to the left, while when button B is pressed the servo horns turns 90 to the right.  
 
