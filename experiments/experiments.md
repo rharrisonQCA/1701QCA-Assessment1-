@@ -15,7 +15,7 @@ This experiment could be the basis of a real world application such as the pedes
 
 ### Dimming an LED using a Potentiometer ###
 #### Photo of completed project ####
-![Image](experiment3.jpg)![Image](experiment3CODE.JPG)
+![Image](experiment3.JPG)![Image](experiment3CODE.JPG)
 The experiment determines whether or not a LED needs to have power based on if a user has pushed the button connected to the micro-bit. From there, the user can adjust the brightness of this LED by turning the potentiometer to be bright or dimmer. At the end, the button can also turn the power to the LED off. 
 
 #### Reflection ####
