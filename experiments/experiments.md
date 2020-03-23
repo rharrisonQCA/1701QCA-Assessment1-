@@ -6,13 +6,8 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
-
-LED Flash and Beep
-
+### LED Flash and Beep ###
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
-
 ![Image](LEDflashandbeep.jpg)![Image](LEDflashandbeepCODE.JPG)
 
 This experiment consisted of creating from scratch a LED that began on start up to be on for 3 seconds before flashing every second after. The experiment also wanted to produce a sound every time the LED was turned off. 
