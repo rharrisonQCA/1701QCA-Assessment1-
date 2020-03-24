@@ -25,13 +25,13 @@ https://www.youtube.com/watch?v=_p1MRfNmz9o
 This project is related to mine because I will end up combining the cups and cupboard roll into my project to make the beeping sound of the alarm louder. As a result of this, the beep sound should be loud enough for a user to hear and take action. In the end, this project is related to mine as it is the best result of my surrounding materials to create a 'Do It Yourself' loud speaker. 
 
 ### Related project 3 ###
-Cooling Fan within a Computer to stop Overheating
+Arduino Cooling Pad
 
-https://www.techwalla.com/articles/what-is-the-fan-function-in-a-computer
+https://create.arduino.cc/projecthub/BuildItDR/arduino-cooling-pad-83335b?ref=search&ref_id=fan%20cooling%20down&offset=0
 
-![Image](computerfan.jpg)
+![Image](fanproject.jpg)
 
-This project is related to mine through its concept of starting the fan or deciding to shut the computer down when it overheats to save it's components. It is related to my replication project by concept as my project detects if the temperature is deemed harzardous, lights will flash and sound will beep in warning. If after the user does not move to react to this warning, the beeping will get faster before it stops and only the flashing lights remain. This is similar to the cooling fan within a computer as the fan determines if the computer's CPU needs cooling down, if so it will happen. However, if it is unable to cool and the heat is overwhelming, the fan and computer decided to shut the computer down in an effect to cool the computer down. 
+This project is related to mine through its concept of starting the fan to cool down the CPU in a laptop to save the components from overheating. It is related to my replication project by concept by detecting the room temperature and deciding if the lights need to flash and alarm needs to go off for the user to do something about the temperature being too cold or too hot. Whereas, the Cooling Pad sets in motion to quickly cool the laptop down by the click of a button. 
 
 ### Related project 4 ###
 Geodesic Duct-Tape Dome
@@ -43,22 +43,22 @@ https://www.youtube.com/watch?v=53UAMGpN3UU
 This project is related to mine because of its fabrication choice of using duct tape to construction a much larger project such as a dome. It is related to my replication project as it inspired the use of sticky tape to combine all the materials together. In doing so, the tape should keep everything stuck together and keep it compact. In this related project, the use of duct tape was used to connect one bamboo stick to another bamboo stick. While in the replication of the temperature gauge will see the sticky tape connect the breadboard to the roof of the tissue box, the cardboard roll securely to the tissue box and the cold to hot range on the front of the box.
 
 ### Related project 5 ###
-(Insert name of project)
+USA National Anthem with Lights & Tone
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/Ryaebi/us-national-anthem-with-lights-tone-3ae554?ref=search&ref_id=LED%20flashing&offset=12
 
-![Image](missingimage.png)
+![Image](missingimage.JPG)
 
-This project is related to mine because (insert)
+This project is related to mine because of its similarities in functions to my replication project. In this USA project, it uses flashing lights to produce an image of the USA flag. At the same time, as these lights light up, the tone of the USA National Anthem plays along side. This function of the USA project is related to my replication project as when the temperature drops or raises above the acceptable temperature threshold, red and yellow lights flash back and forth while a tone of alarm happens. These lights and alarm will stop when the user acknowledges the warning from the project. 
 
 ### Related project 6 ###
-(Insert name of project)
+$10 Portable Arduino Weather Station
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/GeekRex/10-portable-arduino-weather-station-aws-ccf41f?ref=search&ref_id=temp.%20technology&offset=14
 
-![Image](missingimage.png)
+![Image](weatherstation.JPG)
 
-This project is related to mine because (insert)
+This project is related to mine through the technology it uses to gather the temperature and displays it. In this project, a DHT-22 Humidity and Temperature Sensor is used to gather the room temperature that is then displayed on a LCD screen. The fact that the project uses a component to obtain the temperature, makes it related to my replication project. In my project, a temperature sensor is inbuilt into the micro-bit and will need room to obtain the temperature. At the same time, when this is obtained, it will then be displayed on the LED screen of the micro-bit. The fact that the temperature is being displayed is also related to the Weather Station, as they have a separate LCD screen to display the humidity, temperature, pressure and altitude. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
