@@ -112,18 +112,13 @@ This reading relates to the replication project I am currently working on as tri
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project is a boxed temperature gauge with inbuilt alarm system and speaker. Upon start up, the microbit will check the temperature of the room and decide what to do from there. It could decide, if the temperature is below 20 degrees the servo will turn its horn in the direction of 'COLD' and flash between red and orange lights. At the same time, upon the flash of a light a buzzer sound will occur. This sound is carried through the speakers to be louder than it normally would be. The temperature gauge could also decide that the room is above 29 degrees and carry out the same process by flashing lights and emiting a louder buzzing sound. However, instead the servo horn will move towards 'HOT'. Although, the temperature gauge could also decide that the room is at a 'SAFE' temperature, between 21 and 29, and have a green light on and have the servo horns underneath 'SAFE'. This project is for people to be conscious of the rising, sinking or average temperatures and to take action according to that temperature. A typical use of this project would be to determine if the air con or fan within a room needs to be turned on, or to grab warmer clothes to not become cold or prevent a cold. 
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](showcase.JPG)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](additional.JPG)
 
 ### Reflection ###
 
