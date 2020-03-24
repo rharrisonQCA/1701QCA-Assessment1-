@@ -25,6 +25,33 @@ https://www.youtube.com/watch?v=_p1MRfNmz9o
 This project is related to mine because I will end up combining the cups and cupboard roll into my project to make the beeping sound of the alarm louder. As a result of this, the beep sound should be loud enough for a user to hear and take action. In the end, this project is related to mine as it is the best result of my surrounding materials to create a 'Do It Yourself' loud speaker. 
 
 ### Related project 3 ###
+Cooling Fan within a Computer to stop Overheating
+
+https://www.techwalla.com/articles/what-is-the-fan-function-in-a-computer
+
+![Image](computerfan.jpg)
+
+This project is related to mine through its concept of starting the fan or deciding to shut the computer down when it overheats to save it's components. It is related to my replication project by concept as my project detects if the temperature is deemed harzardous, lights will flash and sound will beep in warning. If after the user does not move to react to this warning, the beeping will get faster before it stops and only the flashing lights remain. This is similar to the cooling fan within a computer as the fan determines if the computer's CPU needs cooling down, if so it will happen. However, if it is unable to cool and the heat is overwhelming, the fan and computer decided to shut the computer down in an effect to cool the computer down. 
+
+### Related project 4 ###
+Geodesic Duct-Tape Dome
+
+https://www.youtube.com/watch?v=53UAMGpN3UU
+
+![Image](dome.jpg)
+
+This project is related to mine because of its fabrication choice of using duct tape to construction a much larger project such as a dome. It is related to my replication project as it inspired the use of sticky tape to combine all the materials together. In doing so, the tape should keep everything stuck together and keep it compact. In this related project, the use of duct tape was used to connect one bamboo stick to another bamboo stick. While in the replication of the temperature gauge will see the sticky tape connect the breadboard to the roof of the tissue box, the cardboard roll securely to the tissue box and the cold to hot range on the front of the box.
+
+### Related project 5 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert)
+
+### Related project 6 ###
 (Insert name of project)
 
 (Insert URL to project)
