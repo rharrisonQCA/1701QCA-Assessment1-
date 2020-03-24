@@ -1,5 +1,4 @@
 # Assessment 1: Replication project
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Temperature Gauge ##
 
@@ -103,7 +102,74 @@ This reading relates to the replication project I am currently working on as tri
 
 *Include screenshots of the code you have used.*
 
+The entire project began in class when we were given two different sensors that we had to operate. One of the two sensors I had gotten to experiment with consisted of the servo, which became helpful in discovering its use before being able to implement it into my replication project. During this class and experiment, I was able to fiddle around with the servo to determine possible outcomes I could do with this component within the project. Below is the code that was used for the servo and the PIR motion sensor. 
+![Image](initaldesign.JPG)
 
+From there, I went to discovering how the temperature sensor within the micro-bit even worked. I began by going documentation tab within the micro-bit website to discover a youtube video by Make Code that features a science experiment on the temperature sensor. After witnessing the how a temperature sensor could operate, I built an inital design of how to do the replication project. This was simply done through Google Document's Draw feature. I needed to get the thoughts out somehow, and the Draw feature was the closest I had. The idea of the lights came from making a visual warning of to be careful. Which came from the experiment as a thought that maybe there should be a warning on the car seats to indicate that it is hot.   
+https://www.youtube.com/watch?v=pHDYsy6xyE4&feature=youtu.be
+![Image](initaldesign.png)
+
+It was then decided that a DIY speaker would be a perfect way to project the sound of the buzzer that would be played alongside the lights. It was then that I went looking through youtube for a simplistic verison, as I couldn't build one that required a whole lot of equipment as the first one I found did. This DIY speaker can also be found in the related projects above. However, instead of using a phone to release a loud alarm, I believe I could somehow fit the buzzer while connected inside the roll. At the same time, it would have to be secured down to ensure it would not lose connection to the breadboard or undo its wires. 
+https://www.youtube.com/watch?v=_p1MRfNmz9o
+
+The code process began by examining the given link to the experiment that will be replicated. This code would become helpful in sorting out the servo to work as planned. The code process was also assisted by the inclass experiment of testing two sensors. 
+https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
+
+When it came to developing the project, the "Servo" extensions were added into this project. However, I made the mistake of including too much code into the micro-bit for first testing. Within the first test, the temperature is checked to see that it displays, made sure that the servo was connected correctly to the breadboard and had the servo move to 90 degrees. The below code is the first test that was completed on the micro-bit. 
+![Image](firstcode.JPG)
+
+From there, with the same above code, I also connected the green LED into the breadboard. However upon testing, the light did not turn on. I even tried switching to the second green LED, and that also did not work. 
+![Image](firstfail.JPG)
+
+After looking at previous projects, it was found that I never connected the LED to the ground. This discovery was made after unplugging the servo and making new code that focused on the light, yet that still didn't work. When I finally plugged the LED into the ground, I readded the servo and tested the entire code to see if it worked, it did. Such separate code can be seen below.
+![Image](separatecode.JPG)
+
+The next step saw the same code, but with the temperature at 19 degrees on start. This was to test that the servo did move when below 20 degrees. Which it did. From there, the orange and red LED's were added, with the hope that it would all work with only one ground connection, which is did also. However, when the micro-bit was plugged into the laptop without transferring the new code over, the orage LED was already lit up while red remained off. This error can be seen below in the image. This resulted in the relocation of the end wire on the edge breadboard to be moved over various pins, however all it did was just dim the LED. The next attempt resulted in relocating the smaller edge of the LED to the left, so one box in the negatives over, and it turned off. 
+![Image](separatecode.JPG)
+
+With the new code, seen below, the red LED finally turned on. However, as a result of this, the display of temperature is no longer there as it is flashing one LED at a time randomly. Also with the new code, the red and orange lights are not flashing. And when button A is pressed, the red light turns off while the orange remains on, but the servo does not move and 19 is displayed on the screen. 
+![Image](code2.JPG)
+
+Some above issues were resolved by adding the 'show string temperature' into the 'while' function which sees the 19 degrees displayed on the screen and the red LED flashing. However, the orange LED remains constantly on. And finally pressing button A does its intended uses. While trying to figure out how to fix the orange LED, new code proves beneficially, however it comes at the cost of the red LED no longer operating, so the solution is yet to be found. The issue that was appearing can also be seen at the bottom of the image's page where it is labelled out the issue that happens. 
+![Image](label.jpg)
+
+The above labelled issue was resolved by adding a function to the B button. This function consisted of displaying the temperature of the room. This became successful because it did not interact the flashing lights, as they operated one after another without waiting.
+
+The next step in the development of this project began the start of the buzzer. Which needed to be plugged into P0, where the servo was currently occupying. This led to readjusting the green LED to P5. From there, the buzzer was tested to work accurately. However, when pressing A to reset the code to retest the room temperature, A did nothing. While button B still did it's job. Solutions such as relocating the buzzer and adding another wire to ground the buzzer would still not let button A work. 
+
+This issue took at least 15 minutes of moving code around, removing the bzzer and even adding a button into the breadboard before it was discovered that the green LED was connected to the pin for button A. Hence leading the green LED to be moved to P8 and red moved to P13. 
+
+The next step began by copying and pasting the code from the "COLD" range to be added into the "HOT" range. Although, the servo was adjusted to move to 180 degrees when the temperature is hot. This was tested by changing the set temperature to be 30 degrees and running the code. This worked perfectly. The code below is what was copied over from the "COLD" range to the "HOT" range. 
+![Image](codecopied.JPG)
+
+Following this success, I worked towards finding a way to make the buzzer detached from the breadboard yet still work according to the code. This process began by taking inspiration from all the experiments that have alligator clips because it taught that not every component has to be connected from breadboard to breadboard. As a result of this, a mother-to-father wire was connected to the edge breadboard to another spot on the breadboard. From there, aother mother-to-father was used to connect from the breadboard to the connection of the buzzer before the final mother-to-father wire was used to ground the buzzer and connection. 
+![Image](detachedbuzzer.JPG)
+
+More notes (the end process of the micro-bit code): 
+![Image](process.JPG)
+
+After the code was finished, I moved straight to the creating the outside look for the micro-bit to add a similar look than just wires. 
+The process began by drawing up the "Cold" to "Hot" Range. Initally, I forgot I was doing this range and wrote the degrees on the semi-circle and that meant I had to redo it and add the correct text. Below can see the error and correct outcome:
+![Image](wrong.JPG)![Image](correct.JPG)
+
+The next step saw grabbing an empty tissue box and opening one side of it to have access to the inside to later put the micro-bit inside. As a result of opening the tissue box, it was determined where the cardboard roll would go. From there, an outline was drawn around the carboard roll onto the tissue box to signal where to cut. Then a plastic cup was the next object to be drawn on of an cardboard roll outline to be cut out. 
+The outline of the cardboard roll can be seen in the image below. 
+![Image](outline.JPG)
+
+After all the outlines are cut out, a slit is made with a knife into the center of the cardboard roll with enough space to find the buzzer into. The buzzer is wedged into the roll to ensure it will not fall out.
+![Image](buzzer.JPG)
+
+I did have some difficulties with putting the servo into the side of the box. These problems then led to having to cut a square into the bottom of the tissue box to get better access to securing the servo to the side of the box while still being able to move its horns. When this was ready, I sticky taped the servo to the bottom of the box, as well as sticky taping the wires together to prevent them from falling out, like it already did. This set up is shown below. 
+![Image](stickyservo.JPG)
+
+The next step was to cover the project in aifoil, but after doing the necessary research it was shown that alfoil keeps heat in. According to NDTV Food, alfoil has reflective properties that doesn't let light, oxygen or heat (Aslam, 2017). Overall, the plan to cover the project in alfoil for aestheic purposes has come to a halt as it would only stop the temperature gauge from fulfilling it's goal. 
+
+The final Code:
+![Image](finalcode1.JPG)
+![Image](finalcode2.JPG)
+
+The final Product:
+![Image](Endproduct.JPG)
 
 ## Project outcome ##
 
@@ -130,6 +196,8 @@ An interesting extension of this project might include having a big fan, aircond
 
 
 ### Bibliography ###
+Aslam, A. (2017, 11 24). How Does Aluminum Foil Keep The Food Warm? And Is It Safe? Retrieved 3 24, 2020, from NDTV Food: https://food.ndtv.com/facts/how-does-aluminum-foil-keep-the-food-warm-and-is-it-safe-1779130
+
 Eby, K. (2016, 11 28). Project Design for Any Industry. Retrieved 3 23, 2020, from Smartsheet: https://www.smartsheet.com/project-design-any-industry
 
 Follett, J. (2014). Designing for emerging technologies : ux for genomics, robotics, and the internet of things. Retrieved from
