@@ -1,7 +1,5 @@
 # Inventor Kit Experiments #
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
 ### LED Flash and Beep ###
 ![Image](LEDflashandbeep.jpg)![Image](LEDflashandbeepCODE.JPG)
 
