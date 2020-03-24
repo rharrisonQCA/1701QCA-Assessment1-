@@ -1,23 +1,37 @@
 # Assessment 1: Replication project
-
-*Fill out the following workbook with information relevant to your project.*
-
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+## Temperature Gauge ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
+Temperature Gauge with a Number Range 
+
+https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc
+
+![Image](replication1.JPG)
+
+This project is related to mine because the code is similar. It is similar because this code obtains the surrounding temperature and moves the servo's horns in the direction of where it's temperature is on the number range. This code will be implemented into the replication project to also obtain the surrounding the temperature, from there the servo will also move between cold, average and hot on a temperature range. Therefore, this project is related to mine because it will use similar code, and provides an output to the user on the temperature. 
+
+### Related project 2 ###
+DIY Speaker
+
+https://www.youtube.com/watch?v=_p1MRfNmz9o
+
+![Image](DIYspeaker.JPG)
+
+This project is related to mine because I will end up combining the cups and cupboard roll into my project to make the beeping sound of the alarm louder. As a result of this, the beep sound should be loud enough for a user to hear and take action. In the end, this project is related to mine as it is the best result of my surrounding materials to create a 'Do It Yourself' loud speaker. 
+
+### Related project 3 ###
 (Insert name of project)
 
 (Insert URL to project)
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because (insert)
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
