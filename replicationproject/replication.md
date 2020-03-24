@@ -92,16 +92,6 @@ This reading relates to the replication project I am currently working on as tri
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
-
 The entire project began in class when we were given two different sensors that we had to operate. One of the two sensors I had gotten to experiment with consisted of the servo, which became helpful in discovering its use before being able to implement it into my replication project. During this class and experiment, I was able to fiddle around with the servo to determine possible outcomes I could do with this component within the project. Below is the code that was used for the servo and the PIR motion sensor. 
 ![Image](initaldesign.JPG)
 
