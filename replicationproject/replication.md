@@ -29,7 +29,7 @@ Arduino Cooling Pad
 
 https://create.arduino.cc/projecthub/BuildItDR/arduino-cooling-pad-83335b?ref=search&ref_id=fan%20cooling%20down&offset=0
 
-![Image](fanproject.jpg)
+![Image](fanproject.JPG)
 
 This project is related to mine through its concept of starting the fan to cool down the CPU in a laptop to save the components from overheating. It is related to my replication project by concept by detecting the room temperature and deciding if the lights need to flash and alarm needs to go off for the user to do something about the temperature being too cold or too hot. Whereas, the Cooling Pad sets in motion to quickly cool the laptop down by the click of a button. 
 
@@ -47,7 +47,7 @@ USA National Anthem with Lights & Tone
 
 https://create.arduino.cc/projecthub/Ryaebi/us-national-anthem-with-lights-tone-3ae554?ref=search&ref_id=LED%20flashing&offset=12
 
-![Image](missingimage.JPG)
+![Image](usa.JPG)
 
 This project is related to mine because of its similarities in functions to my replication project. In this USA project, it uses flashing lights to produce an image of the USA flag. At the same time, as these lights light up, the tone of the USA National Anthem plays along side. This function of the USA project is related to my replication project as when the temperature drops or raises above the acceptable temperature threshold, red and yellow lights flash back and forth while a tone of alarm happens. These lights and alarm will stop when the user acknowledges the warning from the project. 
 
