@@ -103,6 +103,8 @@ This reading relates to the replication project I am currently working on as tri
 
 *Include screenshots of the code you have used.*
 
+
+
 ## Project outcome ##
 
 ### Project title ###
@@ -127,7 +129,7 @@ Ideas that I have read, heard or seen in the past have informed my thinking on t
 An interesting extension of this project might include having a big fan, airconditioning or heater that turns on in regards to what temperature it is in the room. This interesting extension would see more connections and overall a massive project that might even be beneficial to society in having one thing to resolve issues with temperature. In other contexts that this mini replication project might be used for an alarm to wake someone up, as it could detect the morning temperature and when it reaches that desired morning temperature it wakes the user up. The buttons would then act as a timer or snooze feature, but the speakers, flashing lights and LED screen would still be esstential to this alternative context. Another context could see this project being used to determine if a swimming pool or a lake would be safe to swim in and wouldn't burn or freeze the user. However, the project would need to be turned into waterproof materials, but having the concept is a start. 
 
 
-# Bibliography
+### Bibliography ###
 Eby, K. (2016, 11 28). Project Design for Any Industry. Retrieved 3 23, 2020, from Smartsheet: https://www.smartsheet.com/project-design-any-industry
 
 Follett, J. (2014). Designing for emerging technologies : ux for genomics, robotics, and the internet of things. Retrieved from
