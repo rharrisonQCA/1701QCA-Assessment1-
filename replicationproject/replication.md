@@ -89,7 +89,6 @@ When finished this reading, I would like to know more on the topic of if Capybar
 This reading relates to the replication project I am currently working on as trial and error has become a massive part in trying to get the temperature gauge to operate appropriately. It also teaches that if a piece of technology or component does not work, to try something else, as well as to not give up easily. These connections come from Scott Sullivan's own experiences with Capybara project.  
 
 ## Interaction flowchart ##
-
 ![Image](flowchart.jpg)
 
 ## Process documentation
