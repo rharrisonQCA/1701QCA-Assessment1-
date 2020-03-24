@@ -105,13 +105,10 @@ This reading relates to the replication project I am currently working on as tri
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
+Alarming Temperature Gauge
 
 ### Project description ###
-
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 This project is a boxed temperature gauge with inbuilt alarm system and speaker. Upon start up, the microbit will check the temperature of the room and decide what to do from there. It could decide, if the temperature is below 20 degrees the servo will turn its horn in the direction of 'COLD' and flash between red and orange lights. At the same time, upon the flash of a light a buzzer sound will occur. This sound is carried through the speakers to be louder than it normally would be. The temperature gauge could also decide that the room is above 29 degrees and carry out the same process by flashing lights and emiting a louder buzzing sound. However, instead the servo horn will move towards 'HOT'. Although, the temperature gauge could also decide that the room is at a 'SAFE' temperature, between 21 and 29, and have a green light on and have the servo horns underneath 'SAFE'. This project is for people to be conscious of the rising, sinking or average temperatures and to take action according to that temperature. A typical use of this project would be to determine if the air con or fan within a room needs to be turned on, or to grab warmer clothes to not become cold or prevent a cold. 
 
 ### Showcase image ###
@@ -121,14 +118,19 @@ This project is a boxed temperature gauge with inbuilt alarm system and speaker.
 ![Image](additional.JPG)
 
 ### Reflection ###
+The parts of the project that I felt were the most successful consist of the LED's working correctly, with the green for good, and having the appropriate time between the red and orange to flash. At the same time, another successful part consisted of the buzzer timing itself perfectly with when the LED switched between being on. For example, when the red LED was on, the buzzer was there to follow it, while when the orange LED's turn to be on occurred, another buzzer sound was ready to occupany it. However, parts that could of done with improvement consisted of further exploring materials that would be appriopriate for a temperature gauge. Another aspect that could of done with improvement is finishing the prepare phase for design. This means that I should of drawn the circles in the cup and tissue box at once instead of drawing on one cup, drawing on the side of box and cutting these out before moving to the other two. If these were improved upon or done beforehand, maybe I would of avoided putting the holes on the wrong side of the tissue box. It was planned to have the holes at the bottom of the box, but instead ended up at the top where the tissues would stick outside the box. 
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+The sources such as the related projects identified at earlier in the design phase of the project assisted by providing techniques, approaches, skills and information to improve upon the replicated project. For example, the code within a similar temperature gauge assisted with getting the servo functionalities out of the way so I could focus on getting the lights and sound to operate correctly. Whereas, the approach of creating a DIY speaker for a phone assists in creating a louder buzzer noise than previously. This helped with the project by becoming a pedastool for the microbit and breadboard, as it sits on top of the cardboard roll and at the top of the tissue box. Whereas, the skills from the USA national anthem project was useful to figure out how to get the lights to correctly work and be at a similar time with the buzzer. The skills present in that project inspired me to accomplish my task successfully and to push through difficulties instead of thinking of different methods to use. 
+
+Ideas that I have read, heard or seen in the past have informed my thinking on this replication project to provide the best outcome I could while at the same time being functionable and appealing to use. For example, Scott Sullivan provided inspiration in regards to trial and error, giving the idea that if you run into a problem, you are heading in the right direction. From this direction you can explore more options and methods to obtain the end goal (Follett, 2014). Another great idea that informed the design process of the project came from Kate Eby, where she encourages a definite goal for said project and to discover the outcomes, objectives and delivery process of this goal into smaller parts which can be combined back into the final project (Eby, 2016). She influenced my design process by her suggestion to sit and think before rushing into the creation process. Also, after reading Dan Saffer's Microinteractions: Designing with Details, it gave some insight into thinking much further than just the function of the temperature gauge. This is where the LED screen on the micro-bit came in handy. The trigger of button A and B became starters of a microinteraction within my replication project. This choice to add these into the project came from Saffer saying that microinteractions "challenges designers to think lightweight" and I wanted to give it a try (Saffer, 2014). 
+
+An interesting extension of this project might include having a big fan, airconditioning or heater that turns on in regards to what temperature it is in the room. This interesting extension would see more connections and overall a massive project that might even be beneficial to society in having one thing to resolve issues with temperature. In other contexts that this mini replication project might be used for an alarm to wake someone up, as it could detect the morning temperature and when it reaches that desired morning temperature it wakes the user up. The buttons would then act as a timer or snooze feature, but the speakers, flashing lights and LED screen would still be esstential to this alternative context. Another context could see this project being used to determine if a swimming pool or a lake would be safe to swim in and wouldn't burn or freeze the user. However, the project would need to be turned into waterproof materials, but having the concept is a start. 
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+# Bibliography
+Eby, K. (2016, 11 28). Project Design for Any Industry. Retrieved 3 23, 2020, from Smartsheet: https://www.smartsheet.com/project-design-any-industry
 
+Follett, J. (2014). Designing for emerging technologies : ux for genomics, robotics, and the internet of things. Retrieved from
+ http://ebookcentral.proquest.com
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+Saffer, D. (2014). Microinteractions. United States of America: O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
