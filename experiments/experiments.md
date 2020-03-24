@@ -42,14 +42,10 @@ In this experiment, I learnt to triple check my code that I input into the mirco
 
 This experiment could be the basis of a real world application such as a solar lights. These solar lights charge from the sun during the day time and determine when it is night time to turn the lights on. So when the sun does rise, these lights turn off again to recharge and await the moon to rise again. 
 
-### Experiment name ###
+### Servo ###
+![Image](servoexperiment.jpg)![Image](servoexperimentCODE.JPG)
 
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-![Image](missingimage.png)
-
-In this experiment, a servo is used to turn it's servo horns to a side when button A or B is clicked on the micro-bit. When button A is, the servo horns turns 90 to the left, while when button B is pressed the servo horns turns 90 to the right.  
+In this experiment, a servo is used to turn it's servo horns to a side when button A or B is clicked on the micro-bit. When button A is pressed, the servo horns turns to 0 degrees, while when button B is pressed, the servo horns turns to 180 degrees. However, when both buttons are pressed at the same time, the servo horns turn to 90 degrees. 
 
 #### Reflection ####
 In this experiment, I learnt how a servo operates and how to connect it to the micro-bit through the breadboard. At the same time, I learnt how to create this connection for my replication project, thus I should be able to easily remake this experiment and implement into the project. Although, I also did learn how to connect a servo when said servo is not within the breadboard. As the servo has three wires, Pin0, 3V and GND, these had to be connected straight to the edge connector breakout board to be able to operate. 
