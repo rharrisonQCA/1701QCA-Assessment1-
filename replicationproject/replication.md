@@ -4,7 +4,6 @@
 ## Temperature Gauge ##
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Temperature Gauge with a Number Range 
@@ -66,24 +65,22 @@ This project is related to mine through the technology it uses to gather the tem
 *For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
+Before Don Norman's, The Design of Everyday Things, was read it was believed that designers created their machines based on their purpose to build the machine. As in, it was believed that a designer might of designed an airplane to get from one place to another. However, this belief was challenged as the designers need to put forth their ideas on human needs, capabilites and behaviours and how to accomodate to these. Hence designers instead focus on what errors people can make when controlling or within an airplane, such as spill water, they designer needs to accomodate this my using waterproof material. This reading also challenged this belief by describing the processes that designers go through to reach the final product. These processes consisted of human-centred design, its set of procedures and its areas of focus: industrial design, interaction design and experience design.   
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+As a result of reading this reading, I now know the extensive length of designing that goes into producing a successful project or machine. I also now know that the blame of a machine failure goes directly to the person who made or operated it to for their "failure to understand the machine". Which is not their fault, as machines lack the experience, common sense and leeway to understand the way they are programmed to do and to do things a specifc way. That is unless the programmer has designed the code step by step, planning for the mistakes of the machine and overly designing the machine to work and operate in different atmospheres.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+Although, after the completion of this reading, I am curious to know more about how J. J.Gibson come to his conclusion of how people come to conclusions from "direct perception"  and how it works in regards to the more complicated machinery being built nowadays. From this reading, I would also like to know more about how designers created their work before the human-centred design was implemented. But more closely towards if they still developed similar patterns to the current list of procedures without knowing they were doing this. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This reading relates to the replication project of the temperature gauge by ensuring I know the potential human needs, capabilities and behaviours that one might have in regards to my project. While these might be known, I can then develop my project by accomodating for possibile errors a user might make with the project and to user proof the machine to not fall apart. The ideas in the reading will also help to identify the affordances that a temperature gauge can provide, while also leaving signifiers on the box on how to use the machine. This will allow an easier experience of using the project, thus creating an acceptable conceptual model where there will be "major clues of how to operate through percieved structure".
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
+Before reading Dan Saffer's Microinteractions: Designing with Details, I always believed that what is described as microinteractions were carefully constructed features of a device. This was of course challenged by the reading by going in detail about the difference between  a feature and microinteraction. Before reading Dan Saffer's work, I believed that designers created their product and then added the intended features of that product, such as a ringer for a phone, after the completion of the product. However, this was proven correct in his work by stating that the products were made and that, what was found to be microinteractions instead of features, were an added thought after the inital product was finished. 
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+It was also learnt through this reading that every microinteraction begins with a trigger. Such a trigger could even include just clicking on an application such as emails and leading the microinteraction to display this information. Another trigger could even see that pushing a letter on a keyboard leads to a microinteraction of inputing the letter into the machine to display. Another interesting piece of knowledge discovered from the reading saw that microinteractions are ever growing to keep up with the advanced development of technology. While at the same time, designers are put in a position to come up with lightweight and reduced complexity microinteractions to implement into their machines or technology. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+After the completion of this reading, I would like to know more in depth about what "loops and modes" are in regards to the structure of microinteractions beyond 'meta rules'. This is because just reading 'meta rules' was unclear as to how microinteractions are controlled by this part. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This piece of reading relates to the project that I am working on by providing information to clearly describe the microinteractions that will occur. For example, majority of the microinteractions within my project are system-initated. These are system-initated to discover the temperature before giving out the feedback through displaying on the LED screen or producing a warning through lights and sound. These rules that occur within consist of if the warning alarm and lights are flashing, the lights will remain flashing until the user presses a button on the micro-bit. These buttons will also act as a trigger for a microinteraction, because if button B is clicked, it will set off the code to discover the temperature in that room. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
@@ -97,9 +94,7 @@ This project is related to mine through the technology it uses to gather the tem
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
-![Image](missingimage.png)
+![Image](flowchart.jpg)
 
 ## Process documentation
 
