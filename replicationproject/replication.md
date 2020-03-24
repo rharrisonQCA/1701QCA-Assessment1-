@@ -38,7 +38,7 @@ Geodesic Duct-Tape Dome
 
 https://www.youtube.com/watch?v=53UAMGpN3UU
 
-![Image](dome.jpg)
+![Image](dome.JPG)
 
 This project is related to mine because of its fabrication choice of using duct tape to construction a much larger project such as a dome. It is related to my replication project as it inspired the use of sticky tape to combine all the materials together. In doing so, the tape should keep everything stuck together and keep it compact. In this related project, the use of duct tape was used to connect one bamboo stick to another bamboo stick. While in the replication of the temperature gauge will see the sticky tape connect the breadboard to the roof of the tissue box, the cardboard roll securely to the tissue box and the cold to hot range on the front of the box.
 
