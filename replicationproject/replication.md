@@ -93,7 +93,7 @@ This reading relates to the replication project I am currently working on as tri
 ## Process documentation
 
 The entire project began in class when we were given two different sensors that we had to operate. One of the two sensors I had gotten to experiment with consisted of the servo, which became helpful in discovering its use before being able to implement it into my replication project. During this class and experiment, I was able to fiddle around with the servo to determine possible outcomes I could do with this component within the project. Below is the code that was used for the servo and the PIR motion sensor. 
-![Image] (initaldesign.JPG)
+![Image](initaldesign.JPG)
 
 From there, I went to discovering how the temperature sensor within the micro-bit even worked. I began by going documentation tab within the micro-bit website to discover a youtube video by Make Code that features a science experiment on the temperature sensor. After witnessing the how a temperature sensor could operate, I built an inital design of how to do the replication project. This was simply done through Google Document's Draw feature. I needed to get the thoughts out somehow, and the Draw feature was the closest I had. The idea of the lights came from making a visual warning of to be careful. Which came from the experiment as a thought that maybe there should be a warning on the car seats to indicate that it is hot. 
 
